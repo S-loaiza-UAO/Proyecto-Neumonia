@@ -1,2 +1,2 @@
 # Proyecto-Neumonia
-![Prediccion del modelo MURA](main/prediccion.jpg)
+![Prediccion del modelo MURA](prediccion.png)
